@@ -20,4 +20,4 @@ O objetivo é praticar os comando básicos do Git, como:
 - Configuração de usuário:
 - "git config user.name"nomeUsuario""
 - "git config user.email "emailUsuario""
-![Logo github](https://www.google.com/imgres?q=github%20logo&imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180711%2Fiqy%2Faawpwnuou.webp&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-github-computer-icons-github-logo-5157320%2F&docid=gmusnqDiUQXeEM&tbnid=jtI3CizsobI1hM&vet=12ahUKEwiZsYi2gvGIAxX8ErkGHZSFIDAQM3oECGUQAA..i&w=900&h=520&hcb=2&ved=2ahUKEwiZsYi2gvGIAxX8ErkGHZSFIDAQM3oECGUQAA.png)
+![Logo github](https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg)
