@@ -1,0 +1,19 @@
+.quadrado1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    margin: 40px;
+ float: right;
+ text-align: center;
+ justify-content: center;
+}
+.quadrado2{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 40px;
+    float: right;
+    text-align: center;
+    justify-content: center;
+
+}
